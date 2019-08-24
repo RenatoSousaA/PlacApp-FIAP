@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="button_exit">Sair</string>
+    <string name="button_new_game">Novo Jogo</string>
+    <string name="developed_by">Desenvolvido por Renato Sousa</string>
+    <string name="main_subtitle">"Transforme seus jogos \nem momentos inesquecíveis. "</string>
+    <string name="title_score">Nome do Evento</string>
+    <string name="label_team_home">Mandante</string>
+    <string name="label_team_away">Visitante</string>
+    <string name="lable_goal">Gol</string>
+    <string name="restart_match">Reiniciar Partida</string>
+    <string name="finish_match">Finalizar Partida</string>
+    <string name="label_away_team">Time Visitante</string>
+    <string name="label_question_team_away">Qual é o time visitante?</string>
+    <string name="label_exemple_away">Ex.: Liverpool</string>
+    <string name="label_start_match">Começar Partida</string>
+    <string name="label_start">Começar</string>
+    <string name="label_name_event">Qual é o nome do evento?</string>
+    <string name="label_exemple_name_event">Ex.: Champions League</string>
+    <string name="label_next">Próximo</string>
+    <string name="label_home_team">Time da Casa</string>
+    <string name="label_team_home_question">Qual é o time da Casa?</string>
+    <string name="ememple_team_home">Ex.: São Paulo</string>
+</resources>

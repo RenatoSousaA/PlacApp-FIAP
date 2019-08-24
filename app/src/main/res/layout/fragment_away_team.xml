@@ -11,7 +11,7 @@
     <TextView
             style="@style/title_game_wizard"
             android:id="@+id/textView"
-            android:text="Time da visitante!"
+            android:text="@string/label_away_team"
             app:layout_constraintTop_toTopOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             android:layout_marginStart="32dp"
@@ -20,7 +20,7 @@
             android:layout_marginTop="16dp"/>
 
     <TextView
-            android:text="Qual é o time adversário?"
+            android:text="@string/label_question_team_away"
             style="@style/subtitle_game_wizard"
             android:id="@+id/textView2"
             app:layout_constraintTop_toBottomOf="@+id/textView"
@@ -29,7 +29,7 @@
             android:layout_marginTop="16dp"/>
 
     <EditText
-            android:hint="Ex.: Liverpool"
+            android:hint="@string/label_exemple_away"
             style="@style/input_wizard"
             android:id="@+id/inputAwayTeam"
             android:layout_marginTop="32dp"
@@ -39,7 +39,7 @@
 
     <Button
             style="@style/custom_button"
-            android:text="Começar partida"
+            android:text="@string/label_start_match"
             android:id="@+id/btNextStep"
             android:layout_marginTop="32dp"
             app:layout_constraintTop_toBottomOf="@+id/inputAwayTeam"

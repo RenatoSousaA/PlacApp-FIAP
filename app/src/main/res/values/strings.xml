@@ -1,13 +1,26 @@
 <resources>
-    <string name="app_name">@string/main_title</string>
-    <string name="main_title">placapp</string>
-    <string name="main_subtitle">Transforme seus jogos \nem momentos
-        inesquecíveis.
-    </string>
-    <string name="button_new_game">Novo Jogo</string>
-    <string name="button_exit">Sair</string>
-    <string name="developed_by">Desenvolvido por Renato Sousa</string>
+    <string name="app_name" translatable="false">@string/main_title</string>
+    <string name="main_title" translatable="false">PlacApp</string>
+    <string name="main_subtitle">Turn your games into \nunforgettable moments.</string>
+    <string name="button_new_game">New Game</string>
+    <string name="button_exit">Exit</string>
+    <string name="developed_by">Developed by Renato Sousa</string>
+    <string name="title_score">Event Name</string>
+    <string name="label_team_home">Home</string>
+    <string name="label_team_away">Away</string>
+    <string name="lable_goal">Goal</string>
+    <string name="restart_match">Restart Match</string>
+    <string name="finish_match">Finish Match</string>
+    <string name="label_away_team">Away Team</string>
+    <string name="label_question_team_away">What is the opposing team?</string>
+    <string name="label_exemple_away">Ex.: Liverpool</string>
+    <string name="label_start_match">Start Match</string>
+    <string name="label_start">Start</string>
+    <string name="label_name_event">What is the name of the event?</string>
+    <string name="label_exemple_name_event">Ex.: Champions League</string>
+    <string name="label_next">Next</string>
+    <string name="label_home_team">Home Team</string>
+    <string name="label_team_home_question">What is the sending team?</string>
+    <string name="ememple_team_home">Ex.: São Paulo</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
